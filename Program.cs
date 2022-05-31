@@ -18,7 +18,7 @@ namespace TheBlechleyCodeBraker
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new LogReg());
-            // zzzzzz
+            // zzzzzzx
         }
     }
 }
